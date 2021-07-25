@@ -4,7 +4,7 @@
 # In[12]:
 
 
-list = [1, 2, 3, 4, 5, 6,7]
+list = [1, 2, 3, 4, 5, 6, 7]
 
 first_middle = int(len(list) / 2) - 1 # = 3 - 1 = 2
 second_middle = int(len(list) / 2)    # = 3
